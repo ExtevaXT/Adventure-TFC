@@ -1,0 +1,5 @@
+
+[general]
+	#Disable sleep even with normal bed
+	disableSleep = false
+

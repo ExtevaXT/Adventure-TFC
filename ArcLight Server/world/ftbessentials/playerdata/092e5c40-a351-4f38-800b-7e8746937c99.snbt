@@ -1,0 +1,11 @@
+{
+	muted: false
+	fly: false
+	teleport_history: [ ]
+	god: false
+	homes: { }
+	recording: 0
+	nick: ""
+	last_seen: { dim: "minecraft:overworld", time: 1700229022317L, z: -5668, y: 70, x: -6586 }
+	name: "Exteva"
+}

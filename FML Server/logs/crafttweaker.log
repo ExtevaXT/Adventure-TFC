@@ -1,0 +1,18 @@
+[07:04:20.190][INFO]: Successfully identified and loaded plugin jeitweaker:default
+[07:04:20.210][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
+[07:04:20.212][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[07:04:21.741][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
+[07:04:21.743][INFO]: - 'crafttweaker' at version '9.1.207'
+[07:04:21.743][INFO]: - 'jeitweaker' at version '3.0.0.9'
+[07:04:31.505][INFO]: Started loading scripts for loader 'initialize'
+[07:04:31.817][INFO]: Compiling and executing scripts
+[07:04:31.849][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[07:04:31.915][INFO]: Execution for loader 'initialize' completed successfully
+[07:04:42.077][INFO]: Started loading scripts for loader 'tags'
+[07:04:42.089][INFO]: Compiling and executing scripts
+[07:04:42.131][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[07:04:42.136][INFO]: Execution for loader 'tags' completed successfully
+[07:04:51.647][INFO]: Started loading scripts for loader 'crafttweaker'
+[07:04:51.659][INFO]: Compiling and executing scripts
+[07:04:52.360][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[07:04:52.370][INFO]: Execution for loader 'crafttweaker' completed successfully
