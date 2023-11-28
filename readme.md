@@ -8,26 +8,30 @@
 Сделал события вторжения гоблинов, пиратов как в террарии, чтобы не было скучно в соло.
 Можно использовать как стандартный модпак
 ```
+**Для клиента нужно не меньше 7GB RAM**
+
+Приват чанков через /claim, основа FTBChunks, 10000^1.5*{количество чанков} монеток, F3+G отображение чанков
 ## 
-Ядро ArcLight или FML
-- ArcLight - Forge+Spigot
+Ядро ~~ArcLight или~~ FML
+- ~~ArcLight - Forge+Spigot~~ Атрибуты player'ов ломаются, скорее всего проблема в ядре
 - FML без плагинов
 
-Плагины:
-- Towny
-- UnexpectedSpawn
+~~Плагины:~~
+- ~~Towny~~
 
 Моды:
 - SimpleShops
 - AntiqueAtlas
 - [Adventure](https://github.com/ExtevaXT/Adventure)
+- FTBChunks
+- FTBTeams
 
 Вырезал:
-- ItemPhysic_v1.4.23_mc1.18.2 // Конфликт с ArcLight
-- canary-mc1.18.2-0.1.7 // Конфликт с ArcLight
-- pluto-mc1.18.2-0.0.6 // Конфликт с ArcLight
-- radon-0.8.1 // Конфликт с ArcLight
-- Dimensional-Threading-Reforged-1.18.2-1.2.8 // Конфликт с ArcLight
+- ~~ItemPhysic_v1.4.23_mc1.18.2 // Конфликт с ArcLight~~
+- ~~canary-mc1.18.2-0.1.7 // Конфликт с ArcLight~~
+- ~~pluto-mc1.18.2-0.0.6 // Конфликт с ArcLight~~
+- ~~radon-0.8.1 // Конфликт с ArcLight~~
+- ~~Dimensional-Threading-Reforged-1.18.2-1.2.8 // Конфликт с ArcLight~~
 - emojiful-1.18.2-3.0.1
 - chat_heads-0.6.1-forge-1.18.2
 - BetterThirdPerson-Forge-1.18.2-1.9.0
@@ -47,6 +51,4 @@
 - Xaeros_Minimap_FP23.4.0_Forge_1.18.2
 - fancymenu_forge_2.14.7_MC_1.18.2
 
-
-Настроить бы Towny
 

@@ -1,5 +1,20 @@
 [
   {
+    "entity":"adventure:bandit",
+    "min_count":1,
+    "max_count":3,
+    "weight":50
+  },
+  {
+    "entity":"adventure:brigand",
+    "min_count":0,
+    "max_count":1,
+    "weight":50
+  },
+
+
+
+  {
     "entity":"alexsmobs:roadrunner",
     "biomes":[
       "tfc:plains",
