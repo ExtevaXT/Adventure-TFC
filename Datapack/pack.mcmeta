@@ -1,0 +1,9 @@
+{
+	"pack": {
+		"pack_format": 9,
+		"description": [
+			{"text":"spm dpi: ","color": "yellow"},
+			{"text":"3.0\n","color":"white"},
+		]
+	}
+}
