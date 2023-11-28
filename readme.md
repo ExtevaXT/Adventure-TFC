@@ -1,5 +1,5 @@
 # Adventure TFC Project
-### [Download](https://github.com/ExtevaXT/Adventure-TFC/releases/latest/download/Adventure.TFC.zip) | IP: adventure.external.su
+### [Скачать](https://github.com/ExtevaXT/Adventure-TFC/releases/latest/download/Adventure.TFC.zip) | IP: adventure.external.su
 
 ```
 Сборка и сервер на основе Poetica 1.18.2
