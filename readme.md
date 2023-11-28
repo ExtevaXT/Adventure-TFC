@@ -1,6 +1,6 @@
 # Adventure TFC Project
 ### [Скачать](https://github.com/ExtevaXT/Adventure-TFC/releases/latest/download/Adventure.TFC.zip) | IP: adventure.external.su
-
+![adventure.external.su:25566](https://img.shields.io/endpoint?url=https%3A%2F%2Fminecraft-server-status-badge.vercel.app%2Fapi%2Fserver%2Fadventure.external.su%3Fport%3D25566)
 ```
 Сборка и сервер на основе Poetica 1.18.2
 Убрал облегчающие моды,
@@ -11,6 +11,8 @@
 **Для клиента нужно не меньше 7GB RAM**
 
 Приват чанков через /claim, основа FTBChunks, 10000^1.5*{количество чанков} монеток, F3+G отображение чанков
+
+Чтобы установить сборку нужен [лаунчер](https://tlaun.ch) или [curseforge](https://www.curseforge.com/download/app)
 ## 
 Ядро ~~ArcLight или~~ FML
 - ~~ArcLight - Forge+Spigot~~ Атрибуты player'ов ломаются, скорее всего проблема в ядре
