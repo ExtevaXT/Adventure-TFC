@@ -12,6 +12,8 @@
 
 Приват чанков через /claim, основа FTBChunks, 10000^1.5*{количество чанков} монеток, F3+G отображение чанков
 
+Авторизация через [SimpleLogin](https://www.curseforge.com/minecraft/mc-mods/simple-login), в самом клиенте простая установка пароля
+
 Чтобы установить сборку нужен [лаунчер](https://tlaun.ch) или [curseforge](https://www.curseforge.com/download/app)
 ## 
 Ядро ~~ArcLight или~~ FML
@@ -27,6 +29,8 @@
 - [Adventure](https://github.com/ExtevaXT/Adventure)
 - FTBChunks
 - FTBTeams
+- [SimpleLogin](https://www.curseforge.com/minecraft/mc-mods/simple-login)
+- OfflineSkins
 
 Вырезал:
 - ~~ItemPhysic_v1.4.23_mc1.18.2 // Конфликт с ArcLight~~
