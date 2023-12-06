@@ -1,20 +1,25 @@
 # Adventure TFC Project
-### [Скачать](https://github.com/ExtevaXT/Adventure-TFC/releases/latest/download/Adventure.TFC.zip) | IP: adventure.external.su
+### [Скачать](https://github.com/ExtevaXT/Adventure-TFC/releases/latest/) | IP: adventure.external.su
 ![adventure.external.su:25566](https://img.shields.io/endpoint?url=https%3A%2F%2Fminecraft-server-status-badge.vercel.app%2Fapi%2Fserver%2Fadventure.external.su%3Fport%3D25566)
-```
+
 Сборка и сервер на основе Poetica 1.18.2
 Убрал облегчающие моды,
-Добавил бандитов с сушки,
-Сделал события вторжения гоблинов, пиратов как в террарии, чтобы не было скучно в соло.
+Добавил бандитов, торговца с сушки,
+Сделал разные события вторжений как в террарии, чтобы не было скучно в соло.
 Можно использовать как стандартный модпак
-```
+
 **Для клиента нужно не меньше 7GB RAM**
+
+Чтобы установить сборку нужен [лаунчер](https://tlaun.ch) или [curseforge](https://www.curseforge.com/download/app)
+
+## Сервер
 
 Приват чанков через /claim, основа FTBChunks, 10000^1.5*{количество чанков} монеток, F3+G отображение чанков
 
+Торговец на 7 67 7, ротация скупки 4 часа, Shift+ПКМ продажа предметов, размен монет ПКМ пустой рукой
+
 Авторизация через [SimpleLogin](https://www.curseforge.com/minecraft/mc-mods/simple-login), в самом клиенте простая установка пароля
 
-Чтобы установить сборку нужен [лаунчер](https://tlaun.ch) или [curseforge](https://www.curseforge.com/download/app)
 ## 
 Ядро ~~ArcLight или~~ FML
 - ~~ArcLight - Forge+Spigot~~ Атрибуты player'ов ломаются, скорее всего проблема в ядре
