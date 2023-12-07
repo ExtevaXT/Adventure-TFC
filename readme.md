@@ -2,15 +2,17 @@
 ### [Скачать](https://github.com/ExtevaXT/Adventure-TFC/releases/latest/) | IP: adventure.external.su
 ![adventure.external.su:25566](https://img.shields.io/endpoint?url=https%3A%2F%2Fminecraft-server-status-badge.vercel.app%2Fapi%2Fserver%2Fadventure.external.su%3Fport%3D25566)
 
-Сборка и сервер на основе Poetica 1.18.2
+Сборка и сервер на основе [Poetica 1.18.2](https://www.curseforge.com/minecraft/modpacks/poetica)
 Убрал облегчающие моды,
 Добавил бандитов, торговца с сушки,
 Сделал разные события вторжений как в террарии, чтобы не было скучно в соло.
 Можно использовать как стандартный модпак
 
+Основные моды Terrafirmacraft, Create, TFC Florae. Есть аналог smartmoving'а
+
 **Для клиента нужно не меньше 7GB RAM**
 
-Чтобы установить сборку нужен [лаунчер](https://tlaun.ch) или [curseforge](https://www.curseforge.com/download/app)
+Чтобы установить сборку нужен [лаунчер](https://tlaun.ch) или [curseforge](https://www.curseforge.com/download/app), подробный гайд есть в дискорде
 
 ## Сервер
 
@@ -20,15 +22,9 @@
 
 Авторизация через [SimpleLogin](https://www.curseforge.com/minecraft/mc-mods/simple-login), в самом клиенте простая установка пароля
 
-## 
-Ядро ~~ArcLight или~~ FML
-- ~~ArcLight - Forge+Spigot~~ Атрибуты player'ов ломаются, скорее всего проблема в ядре
-- FML без плагинов
+## Моды
 
-~~Плагины:~~
-- ~~Towny~~
-
-Моды:
+Добавил:
 - SimpleShops
 - AntiqueAtlas
 - [Adventure](https://github.com/ExtevaXT/Adventure)
@@ -37,12 +33,14 @@
 - [SimpleLogin](https://www.curseforge.com/minecraft/mc-mods/simple-login)
 - OfflineSkins
 
+Изменил:
+- Terrafirmacraft 2.2.18 -> 2.2.18-indev | Фикс потери нутриентов после смерти
+- Breezy 1.0.3 -> 1.0.5
+- SmallShips Alpha 0.4 -> 2.0.0-a2.3.1 | Добавил крафты
+- Alexmobs 1.18.6 | Вырезал спам в консоль от Toucan
+
+
 Вырезал:
-- ~~ItemPhysic_v1.4.23_mc1.18.2 // Конфликт с ArcLight~~
-- ~~canary-mc1.18.2-0.1.7 // Конфликт с ArcLight~~
-- ~~pluto-mc1.18.2-0.0.6 // Конфликт с ArcLight~~
-- ~~radon-0.8.1 // Конфликт с ArcLight~~
-- ~~Dimensional-Threading-Reforged-1.18.2-1.2.8 // Конфликт с ArcLight~~
 - emojiful-1.18.2-3.0.1
 - chat_heads-0.6.1-forge-1.18.2
 - BetterThirdPerson-Forge-1.18.2-1.9.0
