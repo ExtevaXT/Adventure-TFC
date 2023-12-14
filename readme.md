@@ -1,6 +1,7 @@
 # Adventure TFC Project
 ### [Скачать](https://github.com/ExtevaXT/Adventure-TFC/releases/latest/) | IP: adventure.external.su
 ![adventure.external.su:25566](https://img.shields.io/endpoint?url=https%3A%2F%2Fminecraft-server-status-badge.vercel.app%2Fapi%2Fserver%2Fadventure.external.su%3Fport%3D25566)
+![release](https://shields.io/github/v/release/ExtevaXT/Adventure-TFC)
 
 Сборка и сервер на основе [Poetica 1.18.2](https://www.curseforge.com/minecraft/modpacks/poetica)
 Убрал облегчающие моды,
@@ -32,15 +33,17 @@
 - FTBTeams
 - [SimpleLogin](https://www.curseforge.com/minecraft/mc-mods/simple-login)
 - OfflineSkins
+- Connetivity, Cupboard
 
 Изменил:
 - Terrafirmacraft 2.2.18 -> 2.2.18-indev | Фикс потери нутриентов после смерти
-- Breezy 1.0.3 -> 1.0.5
 - SmallShips Alpha 0.4 -> 2.0.0-a2.3.1 | Добавил крафты
 - Alexmobs 1.18.6 | Вырезал спам в консоль от Toucan
+- Breezy 1.0.3 -> 1.0.5
+- sophisticatedbackpacks 3.18.46.821 -> 3.19.4.976
+- sophisticatedcore 0.5.53.260 -> 0.5.109.515
 
-
-Вырезал:
+Убрал:
 - emojiful-1.18.2-3.0.1
 - chat_heads-0.6.1-forge-1.18.2
 - BetterThirdPerson-Forge-1.18.2-1.9.0
