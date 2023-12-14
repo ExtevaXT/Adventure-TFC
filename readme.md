@@ -29,8 +29,6 @@
 - SimpleShops
 - AntiqueAtlas
 - [Adventure](https://github.com/ExtevaXT/Adventure)
-- FTBChunks
-- FTBTeams
 - [SimpleLogin](https://www.curseforge.com/minecraft/mc-mods/simple-login)
 - OfflineSkins
 - Connetivity, Cupboard
@@ -55,7 +53,6 @@
 - itemzoom-1.18.2-2.6.0
 - localizedchat-1.18-4.1.7
 - okzoomer-forge-1.18.2-1.1.1
-- open-parties-and-claims-forge-1.18.2-0.17.3
 - ShoulderSurfing-Forge-1.18.2-2.3.2
 - voicechat-forge-1.18.2-2.4.7
 - spiritdeath-1.0.jar
