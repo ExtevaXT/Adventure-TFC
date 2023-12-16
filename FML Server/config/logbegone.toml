@@ -1,5 +1,0 @@
-
-[logbegone]
-	regex = [""]
-	phrases = ["Potentially Dangerous alternative prefix", "This could be a intended override", "Detected setBlock in a far chunk", "Unable to read property", "Tried to load a block entity", "Tried to load a DUMMY block entity", "NullPointerException", "Skipping BlockEntity with id"]
-

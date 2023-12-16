@@ -1,8 +1,0 @@
-[16:05:04.484][INFO]: Successfully identified and loaded plugin jeitweaker:default
-[16:05:04.513][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
-[16:05:04.514][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
-[16:05:05.305][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
-[16:05:05.306][INFO]: - 'crafttweaker' at version '9.1.207'
-[16:05:05.306][INFO]: - 'jeitweaker' at version '3.0.0.9'
-[16:05:05.306][INFO]: - 'tfctweaker' at version '0.0.3'
-[16:05:05.555][WARN]: Method 'public static java.util.Collection<net.dries007.tfc.util.Metal> mrthomas20121.tfctweaker.api.bracket.TFCBracketDumper.getMetalDump()' is marked as bracket dumper but does not have 'Collection<String>' as return type.

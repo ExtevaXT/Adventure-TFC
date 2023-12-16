@@ -1,1 +1,0 @@
-craftingTable.addShapeless("straw", <item:tfc:straw>, [<tag:items:tfc:plants>, (<tag:items:tfc:knives>.asIIngredient()).reuse().transformDamage()]);
