@@ -34,7 +34,7 @@
 - OfflineSkins
 
 Изменил:
-- Terrafirmacraft 2.2.18 -> 2.2.32
+- Terrafirmacraft 2.2.18 -> 2.2.33-indev | default pan render
 - TFC Florae 2.1.2 -> 2.2
 - SmallShips Alpha 0.4 -> 2.0.0-a2.3.1 | Добавил крафты
 - Alexmobs 1.18.6 | Вырезал спам в консоль от Toucan
