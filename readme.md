@@ -4,12 +4,12 @@
 ![release](https://shields.io/github/v/release/ExtevaXT/Adventure-TFC)
 
 Сборка и сервер на основе [Poetica 1.18.2](https://www.curseforge.com/minecraft/modpacks/poetica)
-Убрал облегчающие моды,
-Добавил бандитов, торговца,
-Сделал разные события вторжений, чтобы не было скучно в соло.
-Можно использовать как стандартный модпак
 
 Основные моды Terrafirmacraft, Create, TFC Florae. Есть аналог smartmoving'а
+
+Это open source, любая помощь оставит проект в живых
+
+Пишите найденные проблемы и идеи во вкладке "Issues" или дискорде, реализую по возможности
 
 **Для клиента нужно не меньше 7GB RAM**
 

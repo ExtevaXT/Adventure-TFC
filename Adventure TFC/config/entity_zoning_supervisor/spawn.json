@@ -1,4 +1,16 @@
 [
+    {
+    "entity":"adventure:arocknid",
+    "min_count":0,
+    "max_count":1,
+    "weight":25
+  },
+  {
+    "entity":"adventure:cave_creep",
+    "min_count":0,
+    "max_count":1,
+    "weight":25
+  },
   {
     "entity":"adventure:bandit",
     "min_count":1,
@@ -11,8 +23,37 @@
     "max_count":1,
     "weight":50
   },
-
-
+  {
+    "entity":"adventure:ogre",
+    "min_count":1,
+    "max_count":2,
+    "weight":50,
+    "biomes":[
+      "tfc:coastal_cliffs",
+      "tfc:mountains",
+      "tfc:old_mountains",
+      "tfc:oceanic_mountains",
+      "tfc:volcanic_mountains",
+      "tfc:volcanic_oceanic_mountains",
+      "tfc:misty_peaks",
+      "tfc:vinicunca_mountains",
+      "tfc:alpine_highlands",
+      "tfc:rolling_highlands"
+    ]
+  },
+  {
+    "entity":"alexsmobs:orca",
+    "min_count":1,
+    "max_count":4,
+    "weight":50,
+    "biomes":[
+      "tfc:ocean",
+      "tfc:ocean_reef",
+      "tfc:deep_ocean",
+      "tfc:deep_ocean_trench"
+    ]
+  },
+  
 
   {
     "entity":"alexsmobs:roadrunner",
