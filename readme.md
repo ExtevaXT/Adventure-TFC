@@ -7,22 +7,15 @@
 
 Основные моды Terrafirmacraft, Create, TFC Florae. Есть аналог smartmoving'а
 
-Это open source, любая помощь оставит проект в живых
-
-Пишите найденные проблемы и идеи во вкладке "Issues" или дискорде, реализую по возможности
-
 **Для клиента нужно не меньше 7GB RAM**
 
-Чтобы установить сборку нужен [лаунчер](https://tlaun.ch) или [curseforge](https://www.curseforge.com/download/app), подробный гайд есть в дискорде
+Чтобы установить сборку нужен [лаунчер](https://tlaun.ch) или [curseforge](https://www.curseforge.com/download/app)
 
 ## Сервер
+World Backup
+https://mega.nz/file/orVHmILK#MQsAEkpoD1moSQE0QfRd0tSVTj2Q4rexQMYEJJ2yuus
 
-Приват чанков через /claim, 10000^1.5*{количество чанков} монеток, F3+G отображение чанков
-
-Торговец на 7 67 7, ротация скупки 4 часа, Shift+ПКМ продажа предметов, размен монет ПКМ пустой рукой
-
-Авторизация через [SimpleLogin](https://www.curseforge.com/minecraft/mc-mods/simple-login), в самом клиенте простая установка пароля
-
+[Installation guide for self host](FML%20Server/readme.md)
 ## Моды
 
 Добавил:
